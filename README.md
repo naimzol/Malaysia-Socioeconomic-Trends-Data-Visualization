@@ -12,9 +12,4 @@ This project provides insights into the economic conditions of different distric
 3. Data Visualization:
 
 * Income and Expenditure Analysis:
-a. Visualized mean and median income by state.
-b. Visualized mean expenditure by state.
-
 * Inequality and Poverty Analysis:
-a. Visualized the Gini coefficient by state.
-b. Visualized the poverty rate by state.
